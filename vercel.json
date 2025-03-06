@@ -16,7 +16,7 @@
       "src": "/balance",
       "methods": ["GET"],
       "headers": {
-        "Access-Control-Allow-Origin": "https://ashikurrahman25.github.io"
+        "Access-Control-Allow-Origin": "*"
       }
     }
   ]
